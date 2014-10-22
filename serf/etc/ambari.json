@@ -1,9 +1,0 @@
-{
-  "event_handlers": [
-    "member-join=/usr/local/serf/handlers/ambari-bootstrap",
-    "user:kylin=/usr/local/serf/handlers/kylin"
-  ],
-  "tags" : {
-    "ambari-agent": "true"
-  }
-}
